@@ -51,4 +51,4 @@ I'm a developer.
 
 <a href="http://www.github.com/Didaniel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Didaniel&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crayonzgrim&layout=compact" />
