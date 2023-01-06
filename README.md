@@ -6,7 +6,8 @@ I'm enjoying create web app!
 
 * 🔭 I'm leaning Javascript, Typescript, HTML, CSS, React.js, Next.js, React-native!
 * 🌱 Recently, I've been enjoying myself to grow up and become an developer 🥸
-* 👯 I’m looking for a good partner for develop myself 🥅 2023 Goals: Grow together 🥰 
+* 👯 I’m looking for a good partner for develop myself
+* 🥅 2023 Goals: Grow together 🥰 
 * ⚡ Fun fact: I love watching movie, doing work-out and I have a cat name Patrick! 🐈
 
 <br />
