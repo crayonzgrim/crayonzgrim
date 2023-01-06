@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KIM DONG IL
+My name is KIM DONG IL! Nice to meet you all!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ======================================================================================================================================================
 
 I'm enjoying create web app!
@@ -8,6 +8,8 @@ I'm enjoying create web app!
 * 🌱 Recently, I've been enjoying myself to grow up and become an developer 🥸
 * 👯 I’m looking for a good partner for develop myself 🥅 2023 Goals: Grow together 🥰 
 * ⚡ Fun fact: I love watching movie, doing work-out and I have a cat name Patrick! 🐈
+
+<br />
 
 * 🌍  I'm based in I'm based in Seoul, Korea
 * ✉️  You can contact me at [crayonzgrim@gmail.com](mailto:crayonzgrim@gmail.com)
@@ -44,13 +46,16 @@ I'm enjoying create web app!
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Didaniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/in/patrick69/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100003598743002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/DIdaniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/just_me_dong_il/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/patrick69/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Didaniel"><img src="https://github-readme-stats.vercel.app/api?username=Didaniel&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Didaniel's GitHub stats" /></a>
+<a href="http://www.github.com/DIdaniel"><img src="https://github-readme-stats.vercel.app/api?username=DIdaniel&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="DIdaniel's GitHub stats" /></a>
 
-<a href="http://www.github.com/Didaniel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Didaniel&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DIdaniel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DIdaniel&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crayonzgrim&layout=compact" />
+<a href="https://github.com/DIdaniel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIdaniel&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crayonzgrim&layout=compact" />   -->
+
