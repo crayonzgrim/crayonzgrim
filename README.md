@@ -1,17 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KIM DONG IL - a.k.a cryonzgrim
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KIM DONG IL
 ======================================================================================================================================================
 
-I'm a developer.
+I'm enjoying create web app!
 ----------------
 
-🔭 I'm leaning Javascript, Typescript, HTML, CSS, React.js, Next.js, React-native! 🌱 Recently, I've been enjoying myself to grow up and become an developer 🥸 👯 I’m looking for a good partner for develop myself 🥅 2023 Goals: Grow together 🥰 ⚡ Fun fact: I love watching movie, doing work-out and I have a cat name Patrick! 🐈
+* 🔭 I'm leaning Javascript, Typescript, HTML, CSS, React.js, Next.js, React-native!
+* 🌱 Recently, I've been enjoying myself to grow up and become an developer 🥸
+* 👯 I’m looking for a good partner for develop myself 🥅 2023 Goals: Grow together 🥰 
+* ⚡ Fun fact: I love watching movie, doing work-out and I have a cat name Patrick! 🐈
 
 * 🌍  I'm based in I'm based in Seoul, Korea
-* ✉️  You can contact me at [cappu159@gmail.com](mailto:cappu159@gmail.com)
+* ✉️  You can contact me at [crayonzgrim@gmail.com](mailto:crayonzgrim@gmail.com)
 * 🧠  I'm learning Javascript, Typescript, React, React-native, Next.js, Algorithms, Data Structures etc.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
