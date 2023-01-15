@@ -1,10 +1,8 @@
-My name is KIM DONG IL! Nice to meet you all!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+My name is KIM DONG IL! (crayonzgrim) [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ======================================================================================================================================================
 
-I'm enjoying create web app!
-----------------
+### I'm enjoying create web app!
 
-* 🔭 I'm leaning Javascript, Typescript, HTML, CSS, React.js, Next.js, React-native!
 * 🌱 Recently, I've been enjoying myself to grow up and become an developer 🥸
 * 👯 I’m looking for a good partner for develop myself
 * 🥅 2023 Goals: Grow together 🥰 
@@ -12,7 +10,7 @@ I'm enjoying create web app!
 
 <br />
 
-* 🌍  I'm based in I'm based in Seoul, Korea
+* 🌍  I'm based in South Korea, Seoul
 * ✉️  You can contact me at [crayonzgrim@gmail.com](mailto:crayonzgrim@gmail.com)
 * 🧠  I'm learning Javascript, Typescript, React, React-native, Next.js, Algorithms, Data Structures etc.
 
@@ -52,11 +50,12 @@ I'm enjoying create web app!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DIdaniel"><img src="https://github-readme-stats.vercel.app/api?username=DIdaniel&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="DIdaniel's GitHub stats" /></a>
+<a href="https://github.com/DIdaniel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIdaniel&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/DIdaniel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DIdaniel&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 
-<a href="https://github.com/DIdaniel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIdaniel&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/DIdaniel"><img src="https://github-readme-stats.vercel.app/api?username=DIdaniel&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="DIdaniel's GitHub stats" /></a>
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crayonzgrim&layout=compact" />   -->
 
